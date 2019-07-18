@@ -1,0 +1,33 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValcineiJr/site-responsivo.git"
+  },
+  "author": "Valcinei <hakjog@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-watch": "^5.0.1",
+    "jquery": "^3.4.1",
+    "popper": "^1.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/ValcineiJr/site-responsivo/issues"
+  },
+  "homepage": "https://github.com/ValcineiJr/site-responsivo#readme",
+  "dependencies": {
+    "bootstrap-sass": "^3.4.1",
+    "breakpoint-sass": "^2.7.1",
+    "font-awesome": "^4.7.0",
+    "ls": "^0.2.1",
+    "popper.js": "^1.15.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
+}
