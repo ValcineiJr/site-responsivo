@@ -24,7 +24,8 @@
     "breakpoint-sass": "^2.7.1",
     "font-awesome": "^4.7.0",
     "ls": "^0.2.1",
-    "popper.js": "^1.15.0"
+    "popper.js": "^1.15.0",
+    "sass-flex-mixin": "^1.0.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
