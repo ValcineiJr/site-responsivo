@@ -1,0 +1,55 @@
+Baixar o node.js
+instalar o git
+abrir o git bash
+entrar na pasta desejada 
+>> comando 
+cd url da pag
+git init - inicia o git
+git config ==global user.name "" e user.email "" - para configurar o meu usuário, sem isso não da pra comitar
+nano - alterar arquivos
+git status - checka todas as alterações feitas no repositório
+git add - adiconar modificações feitas (usando o "." adiciona todas a modificações, ou podemos especificar quais modificações queremos)
+git commit -m 'Mensagem' - comita as alterações e adiciona uma descrição
+git push all - puxa tudo para o repositório online
+
+ao criar um repositória, criar sem o read-me :p
+
+git checkout -b nome aqui - usando o "-b" cria uma branch nova e sem usar somente acessa uma
+
+
+//Adicionar um repositório ja existente
+
+$ git remote add origin link do repositório
+$ git push -u origin master
+
+criando .gitignore
+
+apenas digitando no terminal nano .gitignore e salvando
+
+-------------------------------------------------------------
+Yarn
+
+Instalador de componentes
+ entrar no site do yarn e baixar o instalador
+ dps no git bash digitar (estando no diretório desejado)
+ yarn init
+ talvez um yard install
+
+ adicionar um componente
+
+ yarn add nome do componente --dev
+
+ remover um componente
+
+ yarn remove nome do componente --dev
+
+ -------------------------------------------------
+ inicinar o npm
+
+ npm init
+
+ npm install gulp --save-dev
+ npm install gulp-sass --save-dev
+
+npm i gulp --save-dev
+npm i gulp-sass --save-dev
